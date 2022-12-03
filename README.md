@@ -45,3 +45,5 @@
 ## Tampilan program saat dijalankan
 
 ![gambar](gambar/9.png)
+
+![gambar](gambar/10.png)
