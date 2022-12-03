@@ -1,4 +1,4 @@
-# PRAKTIKUM 6
+# Praktikum 6
 ## Latihan 1
 #### Ubahlah kode di bawah ini menjadi fungsi menggunakan lambda.
 ![gambar](gambar/1.png)
@@ -16,10 +16,10 @@
 - fungsi **ubah(nama)** untuk mengubah data berdasarkan nama
 - buatlah flowcart dan penjelasan program pada README.md
 - commit dan push ke github
-- terimkasih.
+- terimakasih.
 
 ## Daftar nilai mahasiswa menggunakan fungsi
-#### Sebelum kit menggunakan fungsi, kita membuat sebuah dictionary kosong terlebih dahulu.
+#### Sebelum kita menggunakan fungsi, kita membuat sebuah dictionary kosong terlebih dahulu.
 ![gambar](gambar/4.png)
 
 #### setelah dictionary di buat, kita akan menampilkan data mahasiswa dengan menggunakan fungsi. Seperti gambar program di bawah ini:
@@ -32,7 +32,7 @@
 
 ![gambar](gambar/6.png)
 
-#### fungsi menghapus data
+#### fungsi menghapus data berdasarkan nama
 
 ![gambar](gambar/7.png)
 
@@ -40,6 +40,8 @@
 
 ![gambar](gambar/8.png)
 
-#### Jika kita sudah membuat program seperti di atas, maka kita akan tau hasilnya seperti foto di bawah ini
+#### Jika kita sudah membuat program seperti di atas, maka kita akan tau hasilnya seperti foto di bawah ini:
 
 ## Tampilan program saat dijalankan
+
+![gambar](gambar/9.png)
