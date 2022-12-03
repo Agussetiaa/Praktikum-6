@@ -42,7 +42,7 @@
 
 #### Jika kita sudah membuat program seperti di atas, maka kita akan tau hasilnya seperti foto di bawah ini:
 
-## Tampilan program saat dijalankan
+## Tampilan program saat dijalankan.
 
 ![gambar](gambar/9.png)
 
