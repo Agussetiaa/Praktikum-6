@@ -2,7 +2,7 @@
 ## Latihan 1
 #### Ubahlah kode di bawah ini menjadi fungsi menggunakan lambda.
 ![gambar](gambar/1.png)
-#### dan dibuatlah program lambda seperti di bawah ini:
+#### dan dibuatlah program fungsi menggunakan lambda seperti di bawah ini:
 ![gambar](gambar/2.png)
 
 #### - output
