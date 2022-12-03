@@ -32,7 +32,7 @@
 
 ![gambar](gambar/6.png)
 
-#### = fungsi menghapus data berdasarkan nama
+#### - fungsi menghapus data berdasarkan nama
 
 ![gambar](gambar/7.png)
 
