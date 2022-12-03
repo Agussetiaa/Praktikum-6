@@ -2,7 +2,7 @@
 ## Latihan 1
 #### Ubahlah kode di bawah ini menjadi fungsi menggunakan lambda.
 ![gambar](gambar/1.png)
-#### dan dibuatlah program lambda seperti di bwah ini:
+#### dan dibuatlah program lambda seperti di bawah ini:
 ![gambar](gambar/2.png)
 
 #### - output
@@ -22,21 +22,21 @@
 #### Sebelum kita menggunakan fungsi, kita membuat sebuah dictionary kosong terlebih dahulu.
 ![gambar](gambar/4.png)
 
-#### setelah dictionary di buat, kita akan menampilkan data mahasiswa dengan menggunakan fungsi. Seperti gambar program di bawah ini:
+#### Setelah dictionary di buat, kita akan menampilkan data mahasiswa dengan menggunakan fungsi. Seperti gambar program di bawah ini:
 
-#### fungsi menambahkan data
+#### - fungsi menambahkan data
 
 ![gambar](gambar/5.png)
 
-#### fungsi menampilkan data
+#### - fungsi menampilkan data
 
 ![gambar](gambar/6.png)
 
-#### fungsi menghapus data berdasarkan nama
+#### = fungsi menghapus data berdasarkan nama
 
 ![gambar](gambar/7.png)
 
-#### fungsi mengubah data berdasarkan nama
+#### - fungsi mengubah data berdasarkan nama
 
 ![gambar](gambar/8.png)
 
