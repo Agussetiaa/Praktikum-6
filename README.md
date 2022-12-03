@@ -2,10 +2,10 @@
 ## Latihan 1
 #### Ubahlah kode di bawah ini menjadi fungsi menggunakan lambda.
 ![gambar](gambar/1.png)
-#### dan dibuatlah program fungsi menggunakan lambda seperti di bawah ini:
+#### Dan dibuatlah program fungsi menggunakan lambda seperti di bawah ini:
 ![gambar](gambar/2.png)
 
-#### - output
+#### - Output
 ![gambar](gambar/3.png)
 
 ## Tugas Praktikum
